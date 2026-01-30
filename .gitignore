@@ -6,7 +6,3 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Outputs (recommended)
-data/processed/
-results/
-reports/figures/
