@@ -1,13 +1,6 @@
-# Python
+.venv/
 __pycache__/
 *.pyc
-.venv/
-
-# Jupyter
 .ipynb_checkpoints/
-
-<<<<<<< HEAD
-=======
-# Outputs (recommended)
-data/processed/
->>>>>>> 6b8cd6c (Include experiment results and figures for thesis)
+.DS_Store
+Thumbs.db
