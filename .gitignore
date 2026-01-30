@@ -6,3 +6,8 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
+<<<<<<< HEAD
+=======
+# Outputs (recommended)
+data/processed/
+>>>>>>> 6b8cd6c (Include experiment results and figures for thesis)
