@@ -20,6 +20,7 @@ based on Three-Way Decisions (3WD) and Explainable AI (SHAP).
 ```bash
 pip install -r requirements.txt
 jupyter notebook
+```
 
 ## Web Application (Real-Time Demo)
 
@@ -29,5 +30,5 @@ running on the native operating system (no virtual machines).
 ### Run the App
 ```bash
 py -3.11 -m streamlit run app/app.py
-
+```
 
